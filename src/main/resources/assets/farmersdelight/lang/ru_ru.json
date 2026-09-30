@@ -499,7 +499,7 @@
   "farmersdelight.configuration.richSoilBoostChance": "Шанс бонуса плодородной почвы",
   "farmersdelight.configuration.richSoilBoostChance.tooltip": "Шанс (в десятичных долях) того, что плодородная почва даст бонус костной муки культуре, посаженной на ней. Установите 0.0, чтобы отключить.",
   "farmersdelight.configuration.enableTomatoVineClimbingTaggedRopes": "Томатная лоза вьётся по верёвкам в теге",
-  "farmersdelight.configuration.enableTomatoVineClimbingTaggedRopes.tooltip": "Если включено, томатные культуры смогут виться по любой верёвке с тегом farmersdelight:ropes. Если отключено, лоза будет ограничена только верёвкой из этого мода.\n\n§lВнимание: это преобразует такие блоки в блок, указанный в defaultTomatoVineRope.§r",
+  "farmersdelight.configuration.enableTomatoVineClimbingTaggedRopes.tooltip": "Если включено, томатные культуры смогут виться по любой верёвке с тегом farmersdelight:ropes. Если отключено, лоза будет ограничена только верёвкой из этого мода.\n\n§lВнимание: это преобразует такие блоки в блок, указанный в «Верёвке для томатной лозы по умолчанию».§r",
   "farmersdelight.configuration.defaultTomatoVineRope": "Верёвка для томатной лозы по умолчанию",
   "farmersdelight.configuration.defaultTomatoVineRope.tooltip": "Какую верёвку должна оставлять после себя томатная лоза при разрушении?",
 
